@@ -16,8 +16,8 @@ const Hero = (props) => (
       <LeftSection>
         <div>
           <SectionTitle main center>
-            Welcome To <br />
-            My Personal Portfolio
+            Welcome To Alemayehu Tseganew<br />
+             Personal Portfolio
           </SectionTitle>
           <SectionText>
             As a frontend and backend developer with a strong academic
