@@ -52,7 +52,7 @@ export const TimeLineData = [
   },
   {
     year: 2021,
-    text: "Started my journey .Worked for Nokia as Network Operation Engineer ",
+    text: "Started my journey.Worked for INSA as a System software developer " ",
   },
   {
     year: 2022,
