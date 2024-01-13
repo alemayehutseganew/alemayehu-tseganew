@@ -68,11 +68,11 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Iam Alemayehu Tseganew. 
-        I practical work
-        experience at
+        I am Alemayehu Tseganew. 
+        I have a practical work
+        experience at {"  "}  
         <Link href="https://www.insa.gov.et/">
-          Information Network Security Administration (INSA)
+          Information Network Security Administration (INSA) as system software developer 
         </Link>
         -The leading Ethiopian Government Technology and security Institution )
         . Currently I am working for The leading bank of Ethiopia
