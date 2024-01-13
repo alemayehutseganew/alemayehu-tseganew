@@ -68,43 +68,29 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Iam Alemayehu Tseganew. I have a strong passion for technology and
-        innovation. I believe that the theoretical knowledge should be tested
-        and implemented on the real environment, and experimental research ,
-        technology transfer programs and practical work
-        experience(Nokia-safaricom and{" "}
+        Iam Alemayehu Tseganew. 
+        I practical work
+        experience at
         <Link href="https://www.insa.gov.et/">
-          Information metwork security administration(INSA)
+          Information Network Security Administration (INSA)
         </Link>
         -The leading Ethiopian Government Technology and security Institution )
-        are the key elements for that. While I was in{" "}
-        <Link href="https://kiit.ac.in/"> KIIT university</Link>, I participated
-        in KIIT’s tech grand fest as an organizing committee (Event manager),
-        and I also participated in an innovation competition as a team
-        representative.Currently I am working for The leading bank of Ethiopia
+        . Currently I am working for The leading bank of Ethiopia
         <Link href="https://combanketh.et/">
           {" "}
           Commercial Bank of Ethiopia
         </Link>{" "}
-        as <strong>IS operation officer</strong> .I think respect, integrity,
-        and trust are the key values to succeed in any profession, so I give
-        priority to those values in my study and future career. Studying in a
-        Competitive and challenging environment I have contributed to the best
-        of my ability for the advancement of B.Sc. Degree In Electronics and
-        Computer Science Engineering (Electronics, software Engineering,
-        Computer Science,Hardware) and other related activities with CGPA of
-        8.82 out 10.I develop both back-end and front-end with adapting various
-        technologies. I believe this will give you my area of interest . As a
-        frontend developer, Alemayehu has a keen eye for design and user
+        as <strong>IS operation officer</strong> .I develop both back-end and front-end by adapting various
+        technologies. I believe this will give you my area of interest. As a
+        front-end developer, I have a keen eye for design and user
         experience, ensuring that every website they create is both visually
         appealing and easy to use. They are proficient in HTML, CSS, JavaScript,
         React,and other front-end technologies, and have a deep understanding of
-        responsive design principles and UI/UX design like Figma. In addition to
-        their frontend skills, Alemayehu is also a talented backend developer.
-        They are experienced in building scalable web applications using
+        responsive design principles and UI/UX design like Figma.  I am also a talented backend developer.
+        I am experienced in building scalable web applications using
         languages such as Python, and Django Rest framework API . I have a
         strong understanding of database design and management, as well as
-        experience with server administration and deployment.Alemayehu has
+        experience with server administration and deployment. I 
         developed a strong understanding of both the technical and creative
         aspects of web development.
       </SectionText>
