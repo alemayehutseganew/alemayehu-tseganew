@@ -6,16 +6,16 @@ export const projects = [
     image: "/images/1.jpg",
     tags: ["Django-rest-framework-API", "Django", "React", "Bootstrap"],
     source: "https://github.com/alemayehutseganew/Django_Portfolio_Alex",
-    visit: "https://github.com/alemayehutseganew/Django_Portfolio_Alex",
+    visit: "http://alextseg.pythonanywhere.com/",
     id: 0,
   },
   {
     title: "Movie Review",
     description:
-      "Django website used to review Ethiopian and global movies .In this website customers give feedback and suggest for the other customers .",
+      "Django website used to review Ethiopian and global movies.In this website customers give feedback and suggest for the other customers .",
     image: "/images/2.jpg",
     tags: ["Django", "JavaScript", "Bootstrap"],
-    source: "https://github.com/alemayehutseganew/moviereviewsprojects",
+    source: "http://alemayehut.pythonanywhere.com/",
     visit: "https://github.com/alemayehutseganew/moviereviewsprojects",
     id: 1,
   },
@@ -26,7 +26,7 @@ export const projects = [
     image: "/images/3.jpg",
     tags: ["Javascript", "Django"],
     source:
-      "https://github.com/alemayehutseganew/Django_Portfolio_Alex/tree/main/room",
+      "http://alextseg.pythonanywhere.com/rooms/",
     visit:
       "https://github.com/alemayehutseganew/Django_Portfolio_Alex/tree/main/room",
     id: 2,
@@ -38,7 +38,7 @@ export const projects = [
     image: "/images/4.jpg",
     tags: ["Django REST-framework-API", "Postgresql"],
     source:
-      "https://github.com/alemayehutseganew/Django_Portfolio_Alex/tree/main/employee_register",
+      "http://alextseg.pythonanywhere.com/employee_insert/",
     visit:
       "https://github.com/alemayehutseganew/Django_Portfolio_Alex/tree/main/employee_register",
     id: 3,
